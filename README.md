@@ -24,4 +24,5 @@
 
 
 
-# NOTE:It's important to note that before restoring your WordPress site from a backup, you should first backup your current site to ensure that you don't lose any new data or changes you've made since the backup was created. Additionally, some backup plugins may have limitations or require additional steps to restore your site, so it's important to read the plugin's documentation or contact their support team for guidance.
+# NOTE: 
+It's important to note that before restoring your WordPress site from a backup, you should first backup your current site to ensure that you don't lose any new data or changes you've made since the backup was created. Additionally, some backup plugins may have limitations or require additional steps to restore your site, so it's important to read the plugin's documentation or contact their support team for guidance.
